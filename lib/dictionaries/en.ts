@@ -19,6 +19,10 @@ const en = {
     heroSub:
       "TempoBeat is a set of music tools: a sample-accurate online metronome, a tone generator and an interval calculator. All in your browser — fast, free, no signup, nothing sent anywhere.",
     browseAll: "Browse all tools",
+    pinned: "Pinned",
+    pin: "Pin to top",
+    unpin: "Remove from pinned",
+    popular: "Popular right now",
     categoriesTitle: "Categories",
     featuredTitle: "Popular tools",
     trustLocal: "Your tempo stays on your device",
@@ -77,6 +81,8 @@ const en = {
     howTo: "How to use",
     faq: "Frequently asked questions",
     related: "Related tools",
+    nextStep: "Next steps",
+    copyLink: "Copy link",
     privacyNote:
       "This tool runs entirely in your browser. Your data never leaves your device — it is not uploaded to any server.",
     inCategory: "More in {category}",

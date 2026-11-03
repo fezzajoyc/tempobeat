@@ -21,6 +21,10 @@ const fr: Dictionary = {
     heroSub:
       "TempoBeat est un ensemble d'outils de musique : un métronome en ligne d'une précision à l'échantillon, un générateur de sons et une calculatrice d'intervalles. Tout dans votre navigateur — rapide, gratuit, sans inscription, sans envoi.",
     browseAll: "Voir tous les outils",
+    pinned: "Épinglés",
+    pin: "Épingler",
+    unpin: "Désépingler",
+    popular: "Populaires en ce moment",
     categoriesTitle: "Catégories",
     featuredTitle: "Outils populaires",
     trustLocal: "Votre tempo reste sur votre appareil",
@@ -79,6 +83,8 @@ const fr: Dictionary = {
     howTo: "Mode d'emploi",
     faq: "Questions fréquentes",
     related: "Outils associés",
+    nextStep: "Étapes suivantes",
+    copyLink: "Copier le lien",
     privacyNote:
       "Cet outil s'exécute entièrement dans votre navigateur. Vos données ne quittent jamais votre appareil — elles ne sont envoyées à aucun serveur.",
     inCategory: "Plus d'outils dans {category}",

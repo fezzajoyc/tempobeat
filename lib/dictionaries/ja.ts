@@ -19,6 +19,10 @@ const ja: Dictionary = {
     heroSub:
       "TempoBeat は音楽ツールのセット:サンプル精度のオンラインメトロノーム、トーンジェネレーター、音程計算。すべてブラウザ内でローカル処理——高速・無料・登録不要・アップロード一切なし。",
     browseAll: "すべてのツールを見る",
+    pinned: "ピン留め",
+    pin: "トップに固定",
+    unpin: "固定を解除",
+    popular: "人気のツール",
     categoriesTitle: "カテゴリー",
     featuredTitle: "人気のツール",
     trustLocal: "テンポもデータも端末内に留存",
@@ -74,6 +78,8 @@ const ja: Dictionary = {
     howTo: "使い方",
     faq: "よくある質問",
     related: "関連ツール",
+    nextStep: "次のステップ",
+    copyLink: "リンクをコピー",
     privacyNote:
       "このツールは完全にブラウザ内で動作します。データは端末から出ず、サーバーへアップロードされることはありません。",
     inCategory: "{category}のその他のツール",
